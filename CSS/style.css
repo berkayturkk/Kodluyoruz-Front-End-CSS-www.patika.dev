@@ -1,0 +1,153 @@
+body {
+    background-color: #E6BA95;
+}
+a{
+    text-decoration: none;
+}
+.menu-bar a {
+    color: white;
+    font-size: 26px;
+    padding: 32px;
+}
+.menu-bar a:hover {
+    color: red;
+    font-weight: bolder;
+
+}
+.menu-bar {
+    position: absolute;
+    right: 100px;
+    top: 75px;
+}
+.nav-bar img {
+    height: 150px;
+    width: 250px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.Menu {
+    height: 70px;
+    width: 1400px;
+    background-color: #A2B38B;
+}
+.Menu h2 {
+    margin-left: 30px;
+    color: white;
+}
+#Home {
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+#About {
+    position: absolute;
+    left: 50px;
+    top: 700px;
+}
+#Products {
+    position: absolute;
+    left: 50px;
+    top: 1200px;
+}
+#Contact {
+    position: absolute;
+    left: 50px;
+    top: 1700px;
+}
+.instrument{
+    height: 250px;
+    width: 200px;
+    background-color: #FAFDD6;
+    border-radius: 25px;
+}
+.instrument a {
+    color: #E6BA95;
+    font-size: 18px;
+}
+#guitars {
+    position: absolute;
+    top: 150px;
+    left: 10px;
+    text-align: center;
+}
+#pianos {
+    position: absolute;
+    top: 150px;
+    left: 247px;
+    text-align: center;
+}
+#strings {
+    position: absolute;
+    top: 150px;
+    left: 484px;
+    text-align: center;
+}
+#drums-percussion {
+    position: absolute;
+    top: 150px;
+    left: 721px;
+    text-align: center;
+}
+#winds {
+    position: absolute;
+    top: 150px;
+    left: 958px;
+    text-align: center;
+}
+#amp-effect {
+    position: absolute;
+    top: 150px;
+    left: 1195px;
+    text-align: center;
+}
+.instrument a:hover {
+    color: red;
+    font-weight: bolder;
+}
+.footer {
+    color: dimgrey;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.footer img {
+    height: 60px;
+}
+#phone {
+    position: absolute;
+    top: 120px;
+    left: 120px;
+    text-align: center;
+}
+#adress {
+    position: absolute;
+    top: 120px;
+    left: 570px;
+    text-align: center;
+}
+#mail {
+    position: absolute;
+    top: 120px;
+    left: 1020px;
+    text-align: center;
+}
+#about-video {
+    position: absolute;
+    top: 130px;
+    left: 800px;
+}
+#about-write {
+    position: absolute;
+    top: 130px;
+    left: 30px;
+    width: 600px;
+    font-size: 20px;
+    color: dimgrey;
+}
+#Home img {
+    height: 400px;
+    width: 1400px;
+    position: absolute;
+    top: 85px;
+}
+
